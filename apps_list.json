@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "title": "Essential Browsers",
+      "packages": [
+        "org.mozilla.firefox",
+        "com.android.chrome"
+      ]
+    },
+    {
+      "title": "Social & Communication",
+      "packages": [
+        "com.instagram.android",
+        "com.whatsapp",
+        "org.telegram.messenger",
+        "com.reddit.frontpage",
+        "com.discord"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.openai.chatgpt",
+        "com.microsoft.office.word",
+        "com.google.android.keep"
+      ]
+    }
+  ]
+}
