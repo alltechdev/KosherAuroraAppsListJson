@@ -3,12 +3,7 @@
     {
       "title": "Productivity",
       "packages": [
-        "com.simplemobiletools.filemanager.pro"
-      ]
-    },
-    {
-      "title": "Lifestyle",
-      "packages": [
+        "com.simplemobiletools.filemanager.pro",
         "com.myzmanim.hybrid"
       ]
     },
@@ -23,13 +18,21 @@
       ]
     },
     {
-      "title": "Education",
+      "title": "Books & Reference",
       "packages": [
         "org.tanachbible.android",
         "com.rambamapp.android",
+        "org.sifra.dafhayomi"
+      ]
+    },
+    {
+      "title": "Education",
+      "packages": [
         "org.chabad.dailystudy",
         "com.dafyomi",
-        "org.sifra.dafhayomi"
+        "com.rvappstudios.kids.puzzle.learning.games",
+        "com.ttkd.kidspiano",
+        "com.idz.chalkboard.kids.draw.coloring.book"
       ]
     },
     {
@@ -50,22 +53,14 @@
     {
       "title": "Communication",
       "packages": [
-        "com.lionscribe.elist"
-      ]
-    },
-    {
-      "title": "Educational",
-      "packages": [
-        "com.rvappstudios.kids.puzzle.learning.games",
-        "com.ttkd.kidspiano",
-        "com.idz.chalkboard.kids.draw.coloring.book"
+        "com.lionscribe.elist",
+        "org.zulip.zulipmobile"
       ]
     },
     {
       "title": "Maps & Navigation",
       "packages": [
         "com.ichi2.anki",
-        "org.zulip.zulipmobile",
         "org.graphhopper.android",
         "org.mtransit.android.ca_montreal_stm_bus"
       ]
