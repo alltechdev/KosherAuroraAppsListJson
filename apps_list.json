@@ -1,28 +1,61 @@
 {
   "categories": [
     {
-      "title": "Essential Browsers",
+      "title": "File Managers",
       "packages": [
-        "org.mozilla.firefox",
-        "com.android.chrome"
+        "com.amaze.filemanager",
+        "com.simplemobiletools.filemanager.pro"
       ]
     },
     {
-      "title": "Social & Communication",
+      "title": "Utilities",
       "packages": [
-        "com.instagram.android",
-        "com.whatsapp",
-        "org.telegram.messenger",
-        "com.reddit.frontpage",
-        "com.discord"
+        "org.adaway",
+        "eu.thedarken.sdm",
+        "com.arlosoft.macrodroid",
+        "org.f-droid.fdroid"
       ]
     },
     {
-      "title": "Productivity",
+      "title": "Kosher Media & Learning",
       "packages": [
-        "com.openai.chatgpt",
-        "com.microsoft.office.word",
-        "com.google.android.keep"
+        "org.tanachbible.android",
+        "com.rambamapp.android",
+        "org.chabad.dailystudy",
+        "com.dafyomi",
+        "org.sifra.dafhayomi"
+      ]
+    },
+    {
+      "title": "Calendars & Reminders",
+      "packages": [
+        "com.simplemobiletools.calendar.pro",
+        "org.israelcalendar.zmanim"
+      ]
+    },
+    {
+      "title": "Notes & Documents",
+      "packages": [
+        "com.google.android.keep",
+        "com.frostnerd.smartsync.notes",
+        "net.gsantner.markor"
+      ]
+    },
+    {
+      "title": "Kids' Games & Learning",
+      "packages": [
+        "com.rvappstudios.kids.puzzle.learning.games",
+        "com.ttkd.kidspiano",
+        "com.idz.chalkboard.kids.draw.coloring.book"
+      ]
+    },
+    {
+      "title": "Offline Tools",
+      "packages": [
+        "com.ichi2.anki",
+        "org.zulip.zulipmobile",
+        "org.graphhopper.android",
+        "org.mtransit.android.ca_montreal_stm_bus"
       ]
     }
   ]
