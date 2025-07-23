@@ -4,11 +4,7 @@
       "title": "Communication & Social",
       "packages": [
         "com.google.android.apps.messaging",
-        "com.verizon.messaging.vzmsgs",
-        "com.samsung.android.messaging",
-        "com.mosaict.breslevcenter",
-        "org.kolhalashon.khl",
-        "org.filterapps.jtalk"
+        "com.mosaict.breslevcenter"
       ]
     },
     {
