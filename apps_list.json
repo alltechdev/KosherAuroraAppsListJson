@@ -1,31 +1,53 @@
 {
+
   "categories": [
+
     {
-      "title": "Essential Jewish Resources",
+
+      "title": "Essential Browsers",
+
       "packages": [
-        "org.chabad.daily.torah.study",
-        "com.chabad.siddur",
-        "org.sefaria.app",
-        "com.alephbeis.game" 
+
+        "org.mozilla.firefox",
+
+        "com.android.chrome"
+
       ]
+
     },
+
     {
-      "title": "Halacha & Kashrus",
+
+      "title": "Social & Communication",
+
       "packages": [
-        "com.crc.kosher",
-        "app.kosherscan.kosher_scan",
-        "com.kosherdev.koshergator",
-        "com.chabad.omer.counter"
+
+        "com.instagram.android",
+
+        "com.discord",
+
+        "com.mosaict.breslevcenter"
+
       ]
+
     },
+
     {
-      "title": "Communication & Utility",
+
+      "title": "Productivity",
+
       "packages": [
-        "com.waze",
-        "com.google.android.calendar",
-        "com.android.calculator2",
-        "com.android.deskclock"
+
+        "com.openai.chatgpt",
+
+        "com.microsoft.office.word",
+
+        "com.google.android.keep"
+
       ]
+
     }
+
   ]
+
 }
