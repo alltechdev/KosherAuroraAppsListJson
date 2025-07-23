@@ -1,49 +1,43 @@
 {
   "categories": [
     {
-      "title": "Productivity",
+      "title": "File Managers",
       "packages": [
-        "com.simplemobiletools.filemanager.pro",
+        "com.simplemobiletools.filemanager.pro"
+      ]
+    },
+    {
+      "title": "Zmanim",
+      "packages": [
         "com.myzmanim.hybrid"
       ]
     },
     {
-      "title": "Tools",
+      "title": "Utilities",
       "packages": [
-        "org.adaway",
         "eu.thedarken.sdm",
         "com.arlosoft.macrodroid",
-        "org.f-droid.fdroid",
         "com.lionscribe.hebdate"
       ]
     },
     {
-      "title": "Books & Reference",
+      "title": "Kosher Media & Learning",
       "packages": [
         "org.tanachbible.android",
         "com.rambamapp.android",
-        "org.sifra.dafhayomi"
-      ]
-    },
-    {
-      "title": "Education",
-      "packages": [
         "org.chabad.dailystudy",
-        "com.dafyomi",
-        "com.rvappstudios.kids.puzzle.learning.games",
-        "com.ttkd.kidspiano",
-        "com.idz.chalkboard.kids.draw.coloring.book"
+        "com.dafyomi.android"
       ]
     },
     {
-      "title": "Calendar",
+      "title": "Calendars & Reminders",
       "packages": [
         "com.simplemobiletools.calendar.pro",
         "org.israelcalendar.zmanim"
       ]
     },
     {
-      "title": "Note Taking",
+      "title": "Notes & Documents",
       "packages": [
         "com.google.android.keep",
         "com.frostnerd.smartsync.notes",
@@ -51,16 +45,24 @@
       ]
     },
     {
-      "title": "Communication",
+      "title": "Phone Directory",
       "packages": [
-        "com.lionscribe.elist",
-        "org.zulip.zulipmobile"
+        "com.lionscribe.elist"
       ]
     },
     {
-      "title": "Maps & Navigation",
+      "title": "Kids' Games & Learning",
+      "packages": [
+        "com.rvappstudios.kids.puzzle.learning.games",
+        "com.ttkd.kidspiano",
+        "com.idz.chalkboard.kids.draw.coloring.book"
+      ]
+    },
+    {
+      "title": "Offline Tools",
       "packages": [
         "com.ichi2.anki",
+        "org.zulip.zulipmobile",
         "org.graphhopper.android",
         "org.mtransit.android.ca_montreal_stm_bus"
       ]
