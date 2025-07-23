@@ -4,7 +4,6 @@
       "title": "Prayer & Synagogue",
       "packages": [
         {
-          "packageName": "com.siddur.smart",
           "displayName": "Smart Siddur",
           "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw0",
           "developerName": "Siddur.org"
