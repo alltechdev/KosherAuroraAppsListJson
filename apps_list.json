@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "title": "File Managers",
+      "title": "Productivity",
       "packages": [
         "com.simplemobiletools.filemanager.pro"
       ]
     },
     {
-      "title": "Zmanim",
+      "title": "Lifestyle",
       "packages": [
         "com.myzmanim.hybrid"
       ]
     },
     {
-      "title": "Utilities",
+      "title": "Tools",
       "packages": [
         "org.adaway",
         "eu.thedarken.sdm",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "title": "Kosher Media & Learning",
+      "title": "Education",
       "packages": [
         "org.tanachbible.android",
         "com.rambamapp.android",
@@ -33,14 +33,14 @@
       ]
     },
     {
-      "title": "Calendars & Reminders",
+      "title": "Calendar",
       "packages": [
         "com.simplemobiletools.calendar.pro",
         "org.israelcalendar.zmanim"
       ]
     },
     {
-      "title": "Notes & Documents",
+      "title": "Note Taking",
       "packages": [
         "com.google.android.keep",
         "com.frostnerd.smartsync.notes",
@@ -48,13 +48,13 @@
       ]
     },
     {
-      "title": "Phone Directory",
+      "title": "Communication",
       "packages": [
         "com.lionscribe.elist"
       ]
     },
     {
-      "title": "Kids' Games & Learning",
+      "title": "Educational",
       "packages": [
         "com.rvappstudios.kids.puzzle.learning.games",
         "com.ttkd.kidspiano",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "title": "Offline Tools",
+      "title": "Maps & Navigation",
       "packages": [
         "com.ichi2.anki",
         "org.zulip.zulipmobile",
