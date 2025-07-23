@@ -4,7 +4,6 @@
       "title": "Essential Browsers",
       "packages": [
         "org.mozilla.firefox",
-        "com.shazam.android",
         "com.google.android.apps.messaging"
       ]
     },
@@ -22,6 +21,7 @@
       "packages": [
         "com.openai.chatgpt",
         "com.microsoft.office.word",
+        "com.shazam.android",
         "com.google.android.keep"
       ]
     }
