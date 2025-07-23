@@ -4,7 +4,7 @@
       "title": "Essential Browsers",
       "packages": [
         "org.mozilla.firefox",
-        "com.verizon.messaging.vzmsgs",
+        "com.shazam.android",
         "com.google.android.apps.messaging"
       ]
     },
