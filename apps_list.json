@@ -3,123 +3,39 @@
     {
       "title": "Prayer & Synagogue",
       "packages": [
-        {
-          "packageName": "com.siddur.smart",
-          "displayName": "Smart Siddur",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw0",
-          "developerName": "Siddur.org"
-        },
-        {
-          "packageName": "com.RustyBrick.Siddur",
-          "displayName": "Siddur",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw1",
-          "developerName": "Rusty Brick"
-        },
-        {
-          "packageName": "com.kakatua.minyan",
-          "displayName": "Minyan Now",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw2",
-          "developerName": "Kakatua"
-        }
+        "com.siddur.smart",
+        "com.RustyBrick.Siddur",
+        "com.kakatua.minyan"
       ]
     },
     {
       "title": "Torah & Daily Study",
       "packages": [
-        {
-          "packageName": "org.artscroll.digital",
-          "displayName": "ArtScroll Digital Library",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw3",
-          "developerName": "ArtScroll Mesorah"
-        },
-        {
-          "packageName": "com.mercava.mercava",
-          "displayName": "Mercava",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw4",
-          "developerName": "Mercava"
-        },
-        {
-          "packageName": "org.torah.is",
-          "displayName": "PocketTorah",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw5",
-          "developerName": "Tikkun Olam Makers"
-        },
-        {
-          "packageName": "com.rambamapp.android",
-          "displayName": "Hayom",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw6",
-          "developerName": "Chabad.org"
-        },
-        {
-          "packageName": "org.chabad.dailystudy",
-          "displayName": "Chabad.org Daily Study",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw7",
-          "developerName": "Chabad.org"
-        },
-        {
-          "packageName": "com.dafyomi",
-          "displayName": "The Daf Yomi App",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw8",
-          "developerName": "ArtScroll Mesorah"
-        }
+        "org.sefaria.sefaria",
+        "org.artscroll.digital",
+        "com.mercava.mercava",
+        "org.torah.is",
+        "com.rambamapp.android",
+        "org.chabad.dailystudy",
+        "com.dafyomi"
       ]
     },
     {
       "title": "Jewish Life & Utilities",
       "packages": [
-        {
-          "packageName": "com.rustybrick.zmanim",
-          "displayName": "Zmanim",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw9",
-          "developerName": "Rusty Brick"
-        },
-        {
-          "packageName": "com.hebcal.hebcal",
-          "displayName": "Hebcal",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY0",
-          "developerName": "Hebcal.com"
-        },
-        {
-          "packageName": "org.israelcalendar.zmanim",
-          "displayName": "MyZmanim",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY1",
-          "developerName": "MyZmanim.com"
-        },
-        {
-          "packageName": "com.ou.kosher",
-          "displayName": "OU Kosher",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY2",
-          "developerName": "Orthodox Union"
-        },
-        {
-          "packageName": "com.crcweb.Kashrus",
-          "displayName": "cRc Kosher",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY3",
-          "developerName": "Chicago Rabbinical Council"
-        }
+        "com.rustybrick.zmanim",
+        "com.hebcal.hebcal",
+        "org.israelcalendar.zmanim",
+        "com.ou.kosher",
+        "com.crcweb.Kashrus"
       ]
     },
     {
       "title": "News & Media",
       "packages": [
-        {
-          "packageName": "com.timesofisrael.online",
-          "displayName": "The Times of Israel",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY4",
-          "developerName": "Times of Israel"
-        },
-        {
-          "packageName": "com.jpost.android",
-          "displayName": "The Jerusalem Post",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY5",
-          "developerName": "The Jerusalem Post"
-        },
-        {
-          "packageName": "com.jewishmusic.network",
-          "displayName": "JewishMusic Stream",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY6",
-          "developerName": "JewishMusic.fm"
-        }
+        "com.timesofisrael.online",
+        "com.jpost.android",
+        "com.jewishmusic.network"
       ]
     }
   ]
