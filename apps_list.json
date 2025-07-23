@@ -9,7 +9,8 @@
     {
       "title": "Zmanim",
       "packages": [
-        "com.myzmanim.hybrid"
+        "com.myzmanim.hybrid",
+        "com.spotify.music"
       ]
     },
     {
