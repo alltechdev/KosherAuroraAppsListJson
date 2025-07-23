@@ -16,7 +16,7 @@
       "title": "Utilities",
       "packages": [
         "eu.thedarken.sdm",
-        "com.arlosoft.macrodroid",
+        "com.arlosoft.macrodroid"
       ]
     },
     {
