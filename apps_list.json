@@ -1,29 +1,15 @@
 {
   "categories": [
     {
-      "title": "Essential Browsers",
+      "title": "Communication & Social",
       "packages": [
-        "org.mozilla.firefox",
         "com.google.android.apps.messaging",
-        "com.verizon.messaging.vzmsgs"
-      ]
-    },
-    {
-      "title": "Social & Communication",
-      "packages": [
-        "com.instagram.android",
-        "com.discord",
-        "com.adobe.reader",
-        "com.duolingo",
         "com.mosaict.breslevcenter"
       ]
     },
     {
       "title": "Productivity",
       "packages": [
-        "com.openai.chatgpt",
-        "com.microsoft.office.word",
-        "com.shazam.android",
         "com.google.android.keep"
       ]
     }
