@@ -52,8 +52,7 @@
       "packages": [
         "com.ichi2.anki",
         "org.zulip.zulipmobile",
-        "org.graphhopper.android",
-        "org.mtransit.android.ca_montreal_stm_bus"
+        "org.graphhopper.android"
       ]
     }
   ]
