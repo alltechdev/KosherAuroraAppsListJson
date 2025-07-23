@@ -17,12 +17,12 @@
       "packages": [
         "eu.thedarken.sdm",
         "com.arlosoft.macrodroid",
-        "com.lionscribe.hebdate"
       ]
     },
     {
       "title": "Kosher Media & Learning",
       "packages": [
+        "com.lionscribe.hebdate",
         "org.tanachbible.android",
         "com.rambamapp.android",
         "org.chabad.dailystudy",
