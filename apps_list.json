@@ -13,6 +13,7 @@
       "packages": [
         "com.instagram.android",
         "com.discord",
+        "com.adobe.reader",
         "com.mosaict.breslevcenter"
       ]
     },
