@@ -1,71 +1,28 @@
 {
   "categories": [
     {
-      "title": "Prayer & Synagogue",
+      "title": "Essential Browsers",
       "packages": [
-        {
-          "packageName": "com.siddur.smart",
-          "displayName": "Smart Siddur",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw0",
-          "developerName": "Siddur.org"
-        },
-        {
-          "packageName": "com.RustyBrick.Siddur",
-          "displayName": "Siddur",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw1",
-          "developerName": "Rusty Brick"
-        },
-        {
-          "packageName": "com.kakatua.minyan",
-          "displayName": "Minyan Now",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw2",
-          "developerName": "Kakatua"
-        }
+        "org.mozilla.firefox",
+        "com.android.chrome"
       ]
     },
     {
-      "title": "Torah & Daily Study",
+      "title": "Social & Communication",
       "packages": [
-        {
-          "packageName": "org.artscroll.digital",
-          "displayName": "ArtScroll Digital Library",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw3",
-          "developerName": "ArtScroll Mesorah"
-        }
+        "com.instagram.android",
+        "com.whatsapp",
+        "org.telegram.messenger",
+        "com.reddit.frontpage",
+        "com.discord"
       ]
     },
     {
-      "title": "Jewish Life & Utilities",
+      "title": "Productivity",
       "packages": [
-        {
-          "packageName": "com.rustybrick.zmanim",
-          "displayName": "Zmanim",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw9",
-          "developerName": "Rusty Brick"
-        },
-        {
-          "packageName": "com.hebcal.hebcal",
-          "displayName": "Hebcal",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY0",
-          "developerName": "Hebcal.com"
-        }
-      ]
-    },
-    {
-      "title": "News & Media",
-      "packages": [
-        {
-          "packageName": "com.timesofisrael.online",
-          "displayName": "The Times of Israel",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY4",
-          "developerName": "Times of Israel"
-        },
-        {
-          "packageName": "com.jpost.android",
-          "displayName": "The Jerusalem Post",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY5",
-          "developerName": "The Jerusalem Post"
-        }
+        "com.openai.chatgpt",
+        "com.microsoft.office.word",
+        "com.google.android.keep"
       ]
     }
   ]
