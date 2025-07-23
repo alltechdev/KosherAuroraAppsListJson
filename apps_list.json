@@ -1,20 +1,44 @@
 {
   "categories": [
     {
-      "title": "Communication & Social",
+      "title": "Siddurim & Prayer",
       "packages": [
-        "com.google.android.apps.messaging",
-        "com.mosaict.breslevcenter"
+        "com.siddur.siddur",
+        "com.artscroll.siddur",
+        "com.keter.Tehillim",
+        "net.dafhayomi.DafYomi",
+        "com.evl.aliyon"
       ]
     },
     {
-      "title": "Productivity",
+      "title": "Jewish Calendars",
+      "packages": [
+        "com.jewishcalendar.zmanim",
+        "com.dev.Luach"
+      ]
+    },
+    {
+      "title": "Torah & Text Study",
+      "packages": [
+        "org.artscroll.digitalbooks",
+        "org.sefaria.sefaria",
+        "com.gokoshersc.smartsefer",
+        "com.shas.hadran",
+        "com.chavrusa.chavrusa"
+      ]
+    },
+    {
+      "title": "Kosher",
+      "packages": [
+        "com.crckosher.crc",
+        "com.ou.kosher"
+      ]
+    },
+    {
+      "title": "Productivity & Utilities",
       "packages": [
         "com.google.android.keep",
-        "com.google.android.apps.docs",
         "com.google.android.apps.tasks",
-        "com.google.android.apps.nbu.paisa.user",
-        "com.google.android.apps.translate",
         "com.google.android.calculator"
       ]
     }
