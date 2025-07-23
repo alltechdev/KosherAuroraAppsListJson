@@ -10,7 +10,16 @@
     {
       "title": "Productivity",
       "packages": [
-        "com.google.android.keep"
+        "com.google.android.keep",               // Google Keep (notes)
+        "com.google.android.apps.docs",          // Google Docs
+        "com.google.android.apps.sheets",        // Google Sheets
+        "com.google.android.apps.slides",        // Google Slides
+        "com.google.android.apps.cloudprint",    // Cloud Print (legacy, some ROMs still include)
+        "com.google.android.apps.tasks",         // Google Tasks
+        "com.google.android.apps.nbu.paisa.user",// Google Wallet (if allowed, remove if not)
+        "com.google.android.apps.translate",     // Google Translate (often accepted)
+        "com.google.android.calculator",         // Calculator
+        "com.google.android.apps.googleassistantlite" // Lite Assistant (kosher setups may allow limited versions)
       ]
     }
   ]
