@@ -1,45 +1,73 @@
 {
   "categories": [
     {
-      "title": "Siddurim & Prayer",
+      "title": "File Managers",
       "packages": [
-        "com.siddur.siddur",
-        "com.artscroll.siddur",
-        "com.keter.Tehillim",
-        "net.dafhayomi.DafYomi",
-        "com.evl.aliyon"
+        "com.simplemobiletools.filemanager.pro"
       ]
     },
     {
-      "title": "Jewish Calendars",
+      "title": "Zmanim",
       "packages": [
-        "com.jewishcalendar.zmanim",
-        "com.dev.Luach"
+        "com.myzmanim.hybrid"
       ]
     },
     {
-      "title": "Torah & Text Study",
+      "title": "Utilities",
       "packages": [
-        "org.artscroll.digitalbooks",
-        "org.sefaria.sefaria",
-        "com.gokoshersc.smartsefer",
-        "com.shas.hadran",
-        "com.chavrusa.chavrusa"
+        "org.adaway",
+        "eu.thedarken.sdm",
+        "com.arlosoft.macrodroid",
+        "org.f-droid.fdroid",
+        "com.lionscribe.hebdate"
       ]
     },
     {
-      "title": "Kosher",
+      "title": "Kosher Media & Learning",
       "packages": [
-        "com.crckosher.crc",
-        "com.ou.kosher"
+        "org.tanachbible.android",
+        "com.rambamapp.android",
+        "org.chabad.dailystudy",
+        "com.dafyomi",
+        "org.sifra.dafhayomi"
       ]
     },
     {
-      "title": "Productivity & Utilities",
+      "title": "Calendars & Reminders",
+      "packages": [
+        "com.simplemobiletools.calendar.pro",
+        "org.israelcalendar.zmanim"
+      ]
+    },
+    {
+      "title": "Notes & Documents",
       "packages": [
         "com.google.android.keep",
-        "com.google.android.apps.tasks",
-        "com.google.android.calculator"
+        "com.frostnerd.smartsync.notes",
+        "net.gsantner.markor"
+      ]
+    },
+    {
+      "title": "Phone Directory",
+      "packages": [
+        "com.lionscribe.elist"
+      ]
+    },
+    {
+      "title": "Kids' Games & Learning",
+      "packages": [
+        "com.rvappstudios.kids.puzzle.learning.games",
+        "com.ttkd.kidspiano",
+        "com.idz.chalkboard.kids.draw.coloring.book"
+      ]
+    },
+    {
+      "title": "Offline Tools",
+      "packages": [
+        "com.ichi2.anki",
+        "org.zulip.zulipmobile",
+        "org.graphhopper.android",
+        "org.mtransit.android.ca_montreal_stm_bus"
       ]
     }
   ]
