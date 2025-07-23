@@ -27,12 +27,6 @@
       "title": "Torah & Daily Study",
       "packages": [
         {
-          "packageName": "org.sefaria.sefaria",
-          "displayName": "Sefaria",
-          "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY7",
-          "developerName": "Sefaria.org"
-        },
-        {
           "packageName": "org.artscroll.digital",
           "displayName": "ArtScroll Digital Library",
           "iconUrl": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43sZx_dwSjLilyJoRyJ4bXXS8UZunXDQmDRyWbTALBsaY=w240-h480-rw3",
