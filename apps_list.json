@@ -4,17 +4,21 @@
       "title": "Communication & Social",
       "packages": [
         "com.google.android.apps.messaging",
-        "com.mosaict.breslevcenter"
+        "com.verizon.messaging.vzmsgs",
+        "com.samsung.android.messaging",
+        "com.mosaict.breslevcenter",
+        "org.kolhalashon.khl",
+        "org.filterapps.jtalk"
       ]
     },
     {
       "title": "Productivity",
       "packages": [
-        "com.google.android.keep",              
-        "com.google.android.apps.docs",          
-        "com.google.android.apps.tasks",        
+        "com.google.android.keep",
+        "com.google.android.apps.docs",
+        "com.google.android.apps.tasks",
         "com.google.android.apps.nbu.paisa.user",
-        "com.google.android.apps.translate",     
+        "com.google.android.apps.translate",
         "com.google.android.calculator"
       ]
     }
