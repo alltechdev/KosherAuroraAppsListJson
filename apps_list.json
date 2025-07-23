@@ -11,7 +11,6 @@
     {
       "title": "Torah & Daily Study",
       "packages": [
-        "org.sefaria.sefaria",
         "org.artscroll.digital",
         "com.mercava.mercava",
         "org.torah.is",
