@@ -1,72 +1,91 @@
 {
   "categories": [
     {
-      "title": "File Managers",
+      "title": "Jewish Learning & Texts",
       "packages": [
-        "com.simplemobiletools.filemanager.pro",
-        "app.tfs.music"
+        "com.ou.alldaf",
+        "com.ou.allmishnah",
+        "com.lakewooddafyomi.app",
+        "org.sefaria.sefaria",
+        "com.torahanytime.betaapp",
+        "oyw.tnc"
       ]
     },
     {
-      "title": "Zmanim",
+      "title": "Jewish Life & Media",
       "packages": [
-        "com.myzmanim.hybrid",
-        "com.spotify.music"
+        "app.tfs.prod",
+        "com.rocketouch.CRCKosher2013",
+        "com.brochos.jstream",
+        "org.ou.kosherproducts",
+        "com.android.cts.lionscribe.elist",
+        "com.android.cts.smartzmanimk",
+        "tfilon.tfilon",
+        "co.median.android.ljnaek",
+        "com.danismithproductions.yidkit",
+        "fm.jewishmusic.application"
       ]
     },
     {
-      "title": "Utilities",
+      "title": "Essential Tools",
       "packages": [
-        "eu.thedarken.sdm",
-        "com.arlosoft.macrodroid"
+        "com.google.android.calculator",
+        "com.google.android.GoogleCamera",
+        "com.google.android.deskclock",
+        "com.google.android.contacts",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.apps.photosgo",
+        "com.google.android.gm",
+        "com.google.android.apps.messaging",
+        "com.google.android.apps.photos",
+        "com.google.android.apps.recorder",
+        "in.krosbits.musicolet",
+        "tz.co.wadau.allpdf",
+        "com.riteshsahu.SMSBackupRestore"
       ]
     },
     {
-      "title": "Kosher Media & Learning",
+      "title": "Productivity & Organization",
       "packages": [
-        "com.lionscribe.hebdate",
-        "org.tanachbible.android",
-        "com.rambamapp.android",
-        "org.chabad.dailystudy",
-        "com.dafyomi.android"
-      ]
-    },
-    {
-      "title": "Calendars & Reminders",
-      "packages": [
-        "com.simplemobiletools.calendar.pro",
-        "org.israelcalendar.zmanim"
-      ]
-    },
-    {
-      "title": "Notes & Documents",
-      "packages": [
+        "com.socialnmobile.dictapps.notepad.color.note",
+        "com.google.android.calendar",
+        "com.google.android.apps.docs",
         "com.google.android.keep",
-        "com.frostnerd.smartsync.notes",
-        "net.gsantner.markor"
+        "com.google.android.apps.tasks",
+        "com.google.android.apps.translate",
+        "com.google.android.apps.googlevoice",
+        "com.Splitwise.SplitwiseMobile",
+        "com.waveapps.sales"
       ]
     },
     {
-      "title": "Phone Directory",
+      "title": "Travel & Transit",
       "packages": [
-        "com.lionscribe.elist"
+        "com.avis.androidapp",
+        "com.flightaware.android.liveFlightTracker",
+        "com.hertz.android.digital",
+        "me.lyft.android",
+        "com.ubercab",
+        "com.waze"
       ]
     },
     {
-      "title": "Kids' Games & Learning",
+      "title": "Shopping & Delivery",
       "packages": [
-        "com.rvappstudios.kids.puzzle.learning.games",
-        "com.ttkd.kidspiano",
-        "com.idz.chalkboard.kids.draw.coloring.book"
+        "com.dd.doordash",
+        "com.thehomedepot",
+        "com.ubercab.eats"
       ]
     },
     {
-      "title": "Offline Tools",
+      "title": "General Utilities",
       "packages": [
-        "com.ichi2.anki",
-        "org.zulip.zulipmobile",
-        "org.graphhopper.android",
-        "org.mtransit.android.ca_montreal_stm_bus"
+        "com.radiocom",
+        "bin.mt.plus",
+        "com.reqable.android",
+        "com.usmobile.dashboard",
+        "com.weawow",
+        "com.lionscribe.hebdate"
       ]
     }
   ]
