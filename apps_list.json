@@ -12,14 +12,10 @@
       "packages": [
         "com.google.android.keep",              
         "com.google.android.apps.docs",          
-        "com.google.android.apps.sheets",     
-        "com.google.android.apps.slides",       
-        "com.google.android.apps.cloudprint",   
         "com.google.android.apps.tasks",        
         "com.google.android.apps.nbu.paisa.user",
         "com.google.android.apps.translate",     
-        "com.google.android.calculator",        
-        "com.google.android.apps.googleassistantlite" 
+        "com.google.android.calculator"
       ]
     }
   ]
