@@ -73,7 +73,8 @@
       "packages": [
         "com.dd.doordash",
         "com.thehomedepot",
-        "com.ubercab.eats"
+        "com.ubercab.eats",
+        "com.postmates.android"
       ]
     },
     {
