@@ -1,6 +1,14 @@
 {
   "categories": [
     {
+      "title": "Email Clients",
+      "packages": [
+       "com.microsoft.office.outlook",
+       "com.google.android.gm",
+       "org.mozilla.thunderbird"
+      ]
+    },
+    {
       "title": "Navigation",
       "packages": [
         "com.waze",
