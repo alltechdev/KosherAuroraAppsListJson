@@ -9,14 +9,6 @@
       ]
     },
     {
-      "title": "Navigation",
-      "packages": [
-        "com.waze",
-        "com.google.android.apps.maps",
-        "com.google.android.projection.gearhead"
-      ]
-    },
-    {
       "title": "Authenticators",
       "packages": [
         "com.authy.authy"
@@ -87,7 +79,9 @@
         "com.hertz.android.digital",
         "me.lyft.android",
         "com.ubercab",
-        "com.waze"
+        "com.waze",
+        "com.google.android.apps.maps",
+        "com.google.android.projection.gearhead"
       ]
     },
     {
