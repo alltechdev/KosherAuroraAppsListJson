@@ -1,6 +1,20 @@
 {
   "categories": [
     {
+      "title": "Navigation",
+      "packages": [
+        "com.waze",
+        "com.google.android.apps.maps",
+        "com.google.android.projection.gearhead"
+      ]
+    },
+    {
+      "title": "Authenticators",
+      "packages": [
+        "com.authy.authy"
+      ]
+    },
+    {
       "title": "Jewish Learning & Texts",
       "packages": [
         "com.ou.alldaf",
