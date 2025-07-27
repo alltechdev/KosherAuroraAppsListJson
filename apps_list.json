@@ -1,15 +1,6 @@
 {
   "categories": [
     {
-      "title": "Shopping & Delivery",
-      "packages": [
-        "com.dd.doordash",
-        "com.thehomedepot",
-        "com.ubercab.eats",
-        "com.postmates.android"
-      ]
-    },
-    {
       "title": "General Utilities",
       "packages": [
         "com.radiocom",
