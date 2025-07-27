@@ -1,14 +1,11 @@
 {
   "categories": [
     {
-      "title": "General Utilities",
+      "title": "Navigation",
       "packages": [
-        "com.radiocom",
-        "bin.mt.plus",
-        "com.reqable.android",
-        "com.usmobile.dashboard",
-        "com.weawow",
-        "com.lionscribe.hebdate"
+        "com.google.android.projection.gearhead",
+        "com.waze",
+        "com.google.android.apps.maps"
       ]
     }
   ]
