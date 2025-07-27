@@ -1,20 +1,6 @@
 {
   "categories": [
     {
-      "title": "Email Clients",
-      "packages": [
-       "com.microsoft.office.outlook",
-       "com.google.android.gm",
-       "org.mozilla.thunderbird"
-      ]
-    },
-    {
-      "title": "Authenticators",
-      "packages": [
-        "com.authy.authy"
-      ]
-    },
-    {
       "title": "Jewish Learning & Texts",
       "packages": [
         "com.ou.alldaf",
