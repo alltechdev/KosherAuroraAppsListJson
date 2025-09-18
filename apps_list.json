@@ -3,9 +3,8 @@
     {
       "title": "Navigation",
       "packages": [
-        "com.google.android.projection.gearhead",
         "com.waze",
-        "com.help.app"
+        "com.google.android.apps.maps"
       ]
     },
     {
