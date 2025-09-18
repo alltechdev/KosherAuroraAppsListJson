@@ -20,7 +20,9 @@
       "packages": [
         "com.torahanytime.betaapp",
         "com.hebdate.app",
-        "com.lionscribe.app"
+        "com.lionscribe.app",
+        "com.lionscribe.hebdate.app",
+        "com.lionscribe.hebdate"
       ]
     }
   ]
