@@ -5,7 +5,8 @@
       "packages": [
         "com.google.android.projection.gearhead",
         "com.waze",
-        "com.here.app.maps"
+        "com.here.app.maps",
+        "com.whatsapp"
       ]
     },
     {
