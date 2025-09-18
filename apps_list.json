@@ -7,7 +7,8 @@
         "com.waze",
         "com.google.android.apps.maps",
         "com.whatsapp",
-        "org.telegram.messenger"
+        "org.telegram.messenger",
+        "com.whatsapp.w4b"
       ]
     },
     {
