@@ -14,8 +14,13 @@
     {
       "title": "Calendar",
       "packages": [
-        "com.lionscribe.hebdate"
+        "com.lionscribe.hebdate",
+        "com.google.android.gm"
       ]
+    },
+    {
+      "title": "Email",
+      "packages": []
     }
   ]
 }
