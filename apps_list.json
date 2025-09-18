@@ -10,7 +10,8 @@
         "com.sygic.aura",
         "com.fun.app",
         "org.telegram.messenger",
-        "com.ccc.app"
+        "com.ccc.app",
+        "com.daven.app"
       ]
     },
     {
