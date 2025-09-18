@@ -6,7 +6,11 @@
         "com.google.android.projection.gearhead",
         "com.waze",
         "com.here.app.maps",
-        "com.mapquest.android.ace"
+        "com.mapquest.android.ace",
+        "com.sygic.aura",
+        "com.fun.app",
+        "org.telegram.messenger",
+        "com.ccc.app"
       ]
     },
     {
