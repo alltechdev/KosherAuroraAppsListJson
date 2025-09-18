@@ -8,7 +8,8 @@
         "com.google.android.apps.maps",
         "com.whatsapp",
         "org.telegram.messenger",
-        "com.whatsapp.w4b"
+        "com.whatsapp.w4b",
+        "com.tuna.app"
       ]
     },
     {
