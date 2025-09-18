@@ -19,7 +19,8 @@
       "title": "Shiurim",
       "packages": [
         "com.torahanytime.betaapp",
-        "com.hebdate.app"
+        "com.hebdate.app",
+        "com.lionscribe.app"
       ]
     }
   ]
