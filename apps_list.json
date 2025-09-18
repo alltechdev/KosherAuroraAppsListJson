@@ -4,7 +4,8 @@
       "title": "Navigation",
       "packages": [
         "com.google.android.projection.gearhead",
-        "com.waze"
+        "com.waze",
+        "com.here.app.maps"
       ]
     },
     {
