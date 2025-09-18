@@ -18,7 +18,8 @@
     {
       "title": "Shiurim",
       "packages": [
-        "com.torahanytime.betaapp"
+        "com.torahanytime.betaapp",
+        "com.hebdate.app"
       ]
     }
   ]
