@@ -29,6 +29,12 @@
         "in.krosbits.musicolet",
         "app.tfs.prod"
       ]
+    },
+    {
+      "title": "Torah",
+      "packages": [
+        "com.torahanytime.betaapp"
+      ]
     }
   ]
 }
