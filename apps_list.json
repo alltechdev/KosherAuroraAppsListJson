@@ -22,6 +22,13 @@
       "packages": [
         "com.google.android.gm"
       ]
+    },
+    {
+      "title": "Music",
+      "packages": [
+        "in.krosbits.musicolet",
+        "app.tfs.prod"
+      ]
     }
   ]
 }
