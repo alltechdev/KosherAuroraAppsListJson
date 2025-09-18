@@ -5,8 +5,7 @@
       "packages": [
         "com.google.android.projection.gearhead",
         "com.waze",
-        "com.here.app.maps",
-        "com.google.android.calculator"
+        "com.here.app.maps"
       ]
     },
     {
