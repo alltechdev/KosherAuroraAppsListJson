@@ -7,6 +7,12 @@
         "com.waze",
         "com.google.android.apps.maps"
       ]
+    },
+    {
+      "title": "Chat",
+      "packages": [
+        "com.whatsapp"
+      ]
     }
   ]
 }
