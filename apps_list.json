@@ -9,9 +9,9 @@
       ]
     },
     {
-      "title": "Chat",
+      "title": "Shiurim",
       "packages": [
-        "com.whatsapp"
+        "com.torahanytime.betaapp"
       ]
     }
   ]
