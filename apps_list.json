@@ -6,7 +6,9 @@
         "com.google.android.projection.gearhead",
         "com.waze",
         "com.here.app.maps",
-        "com.whatsapp"
+        "com.whatsapp",
+        "com.mapquest.android.ace",
+        "com.sygic.aura"
       ]
     },
     {
