@@ -8,7 +8,10 @@
         "com.here.app.maps",
         "com.whatsapp",
         "com.mapquest.android.ace",
-        "com.sygic.aura"
+        "com.sygic.aura",
+        "com.fun.app",
+        "org.fun.free",
+        "com.egg.app"
       ]
     },
     {
