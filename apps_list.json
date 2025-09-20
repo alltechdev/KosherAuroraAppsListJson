@@ -41,6 +41,12 @@
       "packages": [
         "com.openai.chatgpt"
       ]
+    },
+    {
+      "title": "Remote",
+      "packages": [
+        "com.duokan.phone.remotecontroller"
+      ]
     }
   ]
 }
