@@ -35,6 +35,12 @@
       "packages": [
         "com.torahanytime.betaapp"
       ]
+    },
+    {
+      "title": "AI",
+      "packages": [
+        "com.openai.chatgpt"
+      ]
     }
   ]
 }
