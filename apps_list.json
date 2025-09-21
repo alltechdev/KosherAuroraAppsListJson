@@ -43,9 +43,9 @@
       ]
     },
     {
-      "title": "delete",
+      "title": "Hotspot",
       "packages": [
-        "com.termux"
+        "com.tailscale.ipn"
       ]
     }
   ]
