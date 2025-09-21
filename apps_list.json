@@ -41,6 +41,12 @@
       "packages": [
         "com.duokan.phone.remotecontroller"
       ]
+    },
+    {
+      "title": "delete",
+      "packages": [
+        "com.termux"
+      ]
     }
   ]
 }
