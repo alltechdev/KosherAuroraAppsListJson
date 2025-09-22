@@ -59,6 +59,12 @@
       "packages": [
         "com.accuweather.android"
       ]
+    },
+    {
+      "title": "RideShare",
+      "packages": [
+        "com.uber"
+      ]
     }
   ]
 }
