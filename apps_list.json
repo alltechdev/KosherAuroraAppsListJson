@@ -53,6 +53,12 @@
       "packages": [
         "com.lionscribe.elist"
       ]
+    },
+    {
+      "title": "Weather",
+      "packages": [
+        "com.accuweather.android"
+      ]
     }
   ]
 }
