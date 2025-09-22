@@ -63,7 +63,7 @@
     {
       "title": "RideShare",
       "packages": [
-        "com.uber"
+        "com.ubercab"
       ]
     }
   ]
