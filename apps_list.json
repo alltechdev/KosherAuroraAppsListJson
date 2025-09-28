@@ -65,6 +65,12 @@
       "packages": [
         "com.ubercab"
       ]
+    },
+    {
+      "title": "Files",
+      "packages": [
+        "com.google.android.apps.nbu.files"
+      ]
     }
   ]
 }
